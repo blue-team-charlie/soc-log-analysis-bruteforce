@@ -34,3 +34,5 @@ A successful login shortly after the failed attempts suggests potential account 
 
 ### Failed Login Pattern
 ![Failed Logins](failed-logins.png)
+
+This screenshot shows multiple failed login attempts (Event ID 4625) targeting the same user account within a short timeframe.
